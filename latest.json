@@ -1,18 +1,18 @@
 {
- "version": "0.8.8",
- "schema": "10",
- "released_at": "2026-10-13T13:00:05+05:30",
+ "version": "0.8.9",
+ "schema": "12",
+ "released_at": "2026-10-25T19:27:44+05:30",
  "min_python": "3.13",
  "assets": {
   "linux": {
-   "url": "https://github.com/Gamma-unwind/releases/releases/download/v0.8.8/GAMMA-UNWIND-client-0.8.8-linux.zip",
-   "sha256": "de67cb37165c7dd86907ccb899ca81530e9b025bf042311c5682392d613634eb",
-   "bytes": 1296542
+   "url": "https://github.com/Gamma-unwind/releases/releases/download/v0.8.9/GAMMA-UNWIND-client-0.8.9-linux.zip",
+   "sha256": "34a90c780609d8a214c0f7fafd6c397b8c1787db6eb5aef3970a3c78959d9adb",
+   "bytes": 1760398
   },
   "win64": {
-   "url": "https://github.com/Gamma-unwind/releases/releases/download/v0.8.8/GAMMA-UNWIND-client-0.8.8-win64.zip",
-   "sha256": "6d2998353e04cdc49d418b522990608de6268996f639cec6dc6d322238c617bb",
-   "bytes": 69221642
+   "url": "https://github.com/Gamma-unwind/releases/releases/download/v0.8.9/GAMMA-UNWIND-client-0.8.9-win64.zip",
+   "sha256": "6a9311155d74bfbfc424d94a577e60b19713f258d37154134386410a1cd46fa4",
+   "bytes": 69685509
   }
  }
 }
