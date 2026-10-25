@@ -9,6 +9,16 @@
    "sha256": "34a90c780609d8a214c0f7fafd6c397b8c1787db6eb5aef3970a3c78959d9adb",
    "bytes": 1760398
   },
+  "macos-arm64": {
+   "url": "https://github.com/Gamma-unwind/releases/releases/download/v0.8.9/GAMMA-UNWIND-client-0.8.9-macos-arm64.zip",
+   "sha256": "4896dac1a5b8fa32d49c757799ef26f96c015f8b8190bfb28c21b932a2acf84c",
+   "bytes": 98395110
+  },
+  "macos-x86_64": {
+   "url": "https://github.com/Gamma-unwind/releases/releases/download/v0.8.9/GAMMA-UNWIND-client-0.8.9-macos-x86_64.zip",
+   "sha256": "9d17caec91a5953c55f21c5c1226ba398faadb77c35e2cd237d6c3646547412a",
+   "bytes": 104731300
+  },
   "win64": {
    "url": "https://github.com/Gamma-unwind/releases/releases/download/v0.8.9/GAMMA-UNWIND-client-0.8.9-win64.zip",
    "sha256": "6a9311155d74bfbfc424d94a577e60b19713f258d37154134386410a1cd46fa4",
